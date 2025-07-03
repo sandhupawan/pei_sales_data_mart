@@ -35,10 +35,10 @@ This repository contains all files related to the PEI Data Analyst assessment ta
 
 ## 📁 Repository Structure
 
-##data: Contains all three raw data files
-##python: Python scripts to load data into PostgreSQL for data exploration
-##sql: SQL scripts for data quality checks and business reporting
-##documents: 
+- **data**: Contains all three raw data files
+- **python**: Python scripts to load data into PostgreSQL for data exploration
+- **sql**: SQL scripts for data quality checks and business reporting
+- **documents**: 
    - Sales Data Mart_Technical Stories — User story for Data Engineer
    - PEI Assessment_Approach Document — Steps taken to solve the business problem
    - Data Flow Mapping — Mapping from source system to final data mart
