@@ -24,14 +24,12 @@ This repository contains all files related to the PEI Data Analyst assessment ta
    - `amount` should always be greater than 0.
    - `order_id` must be unique.
    - A customer can order the same item for the same amount more than once; hence uniqueness is enforced only on `order_id`.
+   - Not all customers have order data.
 
 3. **Shipping Table**
    - There’s no direct link between `shipping` and `orders`; `shipping_status` is treated as a dimension.
    - A customer can only have either **Delivered** or **Pending** status. More than one entry per customer with either status will be considered a duplicate.
    - Not all customers have shipping data.
-
-4. **General**
-   - Not all customers have order data.
 
 ---
 
