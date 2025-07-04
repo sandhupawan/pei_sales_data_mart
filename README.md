@@ -1,10 +1,10 @@
-# 📊 PEI | Data Analyst Task
+# PEI | Data Analyst Task
 
 This repository contains all files related to the PEI Data Analyst assessment task.
 
 ---
 
-## 🔗 Reference Links
+## Reference Links
 
 - **Assessment Document**: [Click Here](https://docs.google.com/document/d/1zWXz9SViWSJbMN7EmXCYqqFIXzPk-s98IZd45tu3V3o/edit?tab=t.0)
 - **Technical User Story for Data Engineer**: [Click Here](https://docs.google.com/document/d/1nJzi3Ml7ei8riEAh2EC3Cjx6it2DJsgR21XBuQ4vsN8/edit?tab=t.0)
@@ -12,7 +12,7 @@ This repository contains all files related to the PEI Data Analyst assessment ta
 
 ---
 
-## 🧠 Assumptions Made
+## Assumptions Made
 
 1. **Customers Table**
    - `age` must be greater than 0 and less than 120.
@@ -33,7 +33,7 @@ This repository contains all files related to the PEI Data Analyst assessment ta
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 - **data**: Contains all three raw data files
 - **python**: Python scripts to load data into PostgreSQL for data exploration
