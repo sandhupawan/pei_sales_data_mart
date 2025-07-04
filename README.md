@@ -32,6 +32,12 @@ This repository contains all files related to the PEI Data Analyst assessment ta
    - Not all customers have shipping data.
 
 ---
+## Suggestions to improve the Data sets
+1. **Orders Table**
+   - Item quantity needs to be added to enable item quantity related metrics
+2. **Shipping Table**
+   - A foreign key to map shippings with orders should be added to improve the data reliability. 
+---
 
 ## Repository Structure
 
