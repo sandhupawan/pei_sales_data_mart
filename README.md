@@ -9,6 +9,7 @@ This repository contains all files related to the PEI Data Analyst assessment ta
 - **Assessment Document**: [Click Here](https://docs.google.com/document/d/1zWXz9SViWSJbMN7EmXCYqqFIXzPk-s98IZd45tu3V3o/edit?tab=t.0)
 - **Technical User Story for Data Engineer**: [Click Here](https://docs.google.com/document/d/1nJzi3Ml7ei8riEAh2EC3Cjx6it2DJsgR21XBuQ4vsN8/edit?tab=t.0)
 - **Approach Document**: [Click Here](https://docs.google.com/document/d/10jN_V9kiZ92f_acuKEHllZIJFkHfodHqnjyUJlTfsN0/edit?tab=t.0)
+- **Data Flow Mapping**: [Click Here](https://drive.google.com/file/d/1_O-VSoMWh-e6WG8gowHOii-eI-0_N69L/view?usp=sharing)
 
 ---
 
